@@ -7,6 +7,7 @@ Our Website [https://omega-project.cz/](https://omega-project.cz/) !
   - Auto Scrape Proxies [https://api.omega-project.cz/v1/web_tools/get-socks5-proxy.php?request=raw](https://api.omega-project.cz/v1/web_tools/get-socks5-proxy.php?request=raw)
   - Auto threading calculator
   - Auto rate limit bypass
+  - Keep-Alive header exploit
 
 ### Installation
 Install the app on the server
