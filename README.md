@@ -2,6 +2,8 @@
 
 Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
+> **WARNING**: I'm updating this script beacause of issue
+
 # Features!
 
   - Auto Scrape Proxies [https://api.omega-project.cz/v1/web_tools/get-socks5-proxy.php?request=raw](https://api.omega-project.cz/v1/web_tools/get-socks5-proxy.php?request=raw)
